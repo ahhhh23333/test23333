@@ -1,0 +1,39 @@
+cardNum = 6214855320060789
+18663274807
+133879276401.作为客户端，web服务不应该不做鉴权还监听0.0.0.0，同内网环境下等于裸奔。
+
+2.作为客户端，web服务应当禁止跨域调用，或可配置选项，不然用户访问的任意页面均有可操作客户端所有API，保存的账密之类的东西就等于是别人的,造成隐患。
+
+3.作为服务端，这里特指提供给团队公用(多人公用)的情况应该做权限隔离，做执行环境隔离，避免因jdbc驱动上传功能，以及驱动本身安全问题导致的一系列安全问题。如果这个工具整体的定位就只是给个人使用，非团队工具的话，我认为整1123123123@qq.com体做好鉴权即可，jdbc安全问题可忽略。
+13553182116
+1123123123@qq.com11111123
+1123123123@qq.com.edu.com.aisa
+
+186583974807
+133879796401.作为客户端，web服务不应该不做鉴权还监听0.0.0.0，同内网环境下等于裸奔。
+
+2.作为客户端，web服务应当禁止跨域调用，或可配置选项，不然用户访问的任意页面均有可操作客户端所有API，保存的账密之类的东西就等于是别人的,造成隐患。
+
+3.作为服务端，这里特指提供给团队公用(多人公用)的情况应该做权限隔离，做执行环境隔离，避免因jdbc驱动上传功能，以及驱动本身安全问题导致的一系列安全问题。如果这个工具整体的定位就只是给个人使用，非团队工具的话，我认为整体做好鉴权即可，jdbc安全问题可忽略。
+13553113116
+LTAI5tRjXdf1mymYEDEjngDv    cFXGIWihaFSULtMZOiby1EH79oSbAs
+AKIDz8krbsJ5yKBZQpn74WFkmLPx3gnPhESA    Gu5TcAQbka4BSC6K9VllLEyP82tF2CKv
+AKIAIOSFODNN7EXAMPLE    wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
+JDC_6ACFMCB21NL9ZP3XJ3K9N3S18C82    384ECCBMX2TE42KQ16OXH5J726C611BD
+AIzaSyDt8878BFikEnOD-fQC784cmiAu-4pWetM AIzaSyDoDC4LtI298APdzST3fHGktfGMLop3suY
+HQMEFA5VSXTFHLEXZYTT    rsNZV9gSvNg1gICBN5sQtfnLhU27lxpprmU15dbz
+KPYABGDFHUIETBCJFQTV    bdq6GnZotERQ9rTyL2aWTJx85C2ZtoAc7cSidRSM
+ALTAK7Xv9E9ZKftOBR6cxyjH1s  14f4b7881e1f4f82bcf89d2b3f2fb83d
+AKLTU1LlhZieQfS6ZV1ZtPmq    OBINo5yQqxMGdDhvYCXCGi2BYHo11Bri75z4SPyD
+4eZBKjmNip7GzKQp9W2GvM2Kw1wpzDEFp   8za7UJHshlj1FEU4NY6UZE4tugPg1SdiREAcPAd3eaUS
+AKLTZDNjNzBiZjdhYzhhNDcwZTg1MzhjYjM0NzNkMTg5YWQ
+WlRobFlUQXhOR1ExTkRrNE5ETTFZMkkzT0RKall6STVOVEV3TURneFpURQ==
+
+370204200911013910370204200911013911370204200911013912370204200911013913
+3702042009110139
+3702042009110139asd
+370204200911013910
+asdas37020420091101391012312
+339005199106024949
+
+access_key|access_secret|access_secret_key|access_token|access_token|AccessKey|accessKey|AccessKey ID|AccessKey Secret|accessKeyId|accessKeySecret|AccessToken
